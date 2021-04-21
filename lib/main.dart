@@ -26,7 +26,6 @@ class _MyHomePageState extends State<MyHomePage> {
   double _currentRangeValues2 = 0;
   double _currentRangeValues3 = 0;
 
-  double ss = 0;
   double s = 100.0;
   double m = 250.0;
   double l = 400.0;
